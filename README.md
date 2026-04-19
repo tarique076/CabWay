@@ -4,7 +4,7 @@
 </p>
   
  #  CabWay(Online Cab Booking System)
-This application is a REST API for an Online Cab Booking Management System.Using this web service a customer can book a trip, an admin can assign a driver to a particular trip, and a driver can complete the trip. All these CRUD operations require validation on each step.
+This service contains REST APIs for an Online Cab Booking Management System. Using this spring service a customer can book a trip, an admin can assign a driver to a particular trip, and a driver can complete the trip. All these CRUD operations require validation on each step.
 
 
 
