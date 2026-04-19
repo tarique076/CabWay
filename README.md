@@ -33,7 +33,7 @@ This service contains REST APIs for an Online Cab Booking Management System. Usi
 ### Functionalities
 - Common Functionalities :- Login, Logout and registration to the system.
 * Admin Functionalities :-
-    * Administrator Role of the entire application
+    * Administrator Role for the entire application
     * Only registered admins with valid session token can add/update/delete driver or customer from main database
     * Admin can access the details of different customers, drivers and trip bookings
     * Admin can assign a driver to a particular trip.
